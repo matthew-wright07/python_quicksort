@@ -2,8 +2,8 @@ import random
 
 random_array = []
 
-for i in range(100):
-    random_array.append(random.randint(0,100))
+for i in range(1000):
+    random_array.append(random.randint(0,1000))
 
 left = []
 right = []
